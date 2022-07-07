@@ -4,6 +4,7 @@
 **Henry-GongZY/Henry-GongZY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 - 🔭 I’m currently working on Computer Vision (Low-light image enhancement).
+- 🏫 I learned computer science in NKU from 2018 to 2022.
 - 🌱 I’m currently learning in SYSU.
 - 📫 How to reach me: watershell@qq.com (mail)
 <!-- - 👯 I’m looking to collaborate on ...
