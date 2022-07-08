@@ -7,9 +7,9 @@
 - 🏫 I learned computer science in NKU from 2018 to 2022.
 - 🌱 I’m currently learning in SYSU.
 - 📫 How to reach me: watershell@qq.com (mail)
-<!-- - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+
+### 🛠 技术栈 | Tech Stack
+
+- 🔧 &#160; ![Go](https://img.shields.io/badge/Go-1.17-blue) ![Python](https://img.shields.io/badge/Python-3.8-green)
 
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=radical&hide=prs) 
