@@ -10,11 +10,11 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 编程语言 &#160; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
+- 💻 编程语言 | Programming language &#160; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-- 🔧 常用工具 &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+- 🔧 常用工具 | Tools &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
