@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Computer Vision (Low-light image enhancement).
 - 🏫 I learned computer science in NKU from 2018 to 2022.
 - 🌱 I’m currently learning in SYSU.
-- 📫 How to reach me: watershell@qq.com (mail)
+- 📫 How to reach me: watershell@qq.com (email) or henrygongzy@gmail.com (email)
 
 ### 🛠 技术栈 | Tech Stack
 
