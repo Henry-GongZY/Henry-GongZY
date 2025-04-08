@@ -58,3 +58,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY)
 
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=radical&hide=prs) 
+
+[![龚卓岳 （Zhuoyue Gong） profile views](https://u8views.com/api/v1/github/profiles/55904045/views/day-week-month-total-count.svg)](https://u8views.com/github/Henry-GongZY)
