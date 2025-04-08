@@ -8,14 +8,17 @@
 - 🌱 I’m currently learning in SYSU.
 - 📫 How to reach me: watershell@qq.com (email) or henrygongzy@gmail.com (email)
 
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8" alt="Top Langs" />
-  </div>
-  <div style="flex: 1; text-align: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs" alt="Henry's github stats" />
-  </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8" alt="Top Langs" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs" alt="Henry's github stats" />
+    </td>
+  </tr>
+</table>
+
 
 ### 🛠 技术栈 | Tech Stack
 
