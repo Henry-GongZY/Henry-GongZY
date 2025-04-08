@@ -8,6 +8,10 @@
 - 🌱 I’m currently learning in SYSU.
 - 📫 How to reach me: watershell@qq.com (email) or henrygongzy@gmail.com (email)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=12)
+
+![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs) 
+
 ### 🛠 技术栈 | Tech Stack
 
 - 💻 编程语言 | Programming language &#160; ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white) 
@@ -54,8 +58,4 @@
 </td></tr></table>  
 
 <br/>  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16)
-
-![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs) 
 
