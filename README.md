@@ -55,7 +55,6 @@
 
 <br/>  
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&la)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY)
 
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=radical&hide=prs) 
