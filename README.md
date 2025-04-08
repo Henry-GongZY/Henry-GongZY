@@ -55,7 +55,7 @@
 
 <br/>  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=16)
 
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs) 
 
