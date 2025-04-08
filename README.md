@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning in SYSU.
 - 📫 How to reach me: watershell@qq.com (email) or henrygongzy@gmail.com (email)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=12)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henry-GongZY&layout=donut&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Henry's github stats](https://github-readme-stats.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs) 
 
