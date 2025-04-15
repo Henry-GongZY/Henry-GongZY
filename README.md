@@ -22,15 +22,15 @@
 
 ### 🛠 技术栈 | Tech Stack
 
-- 💻 编程语言 | Programming language &#160; ![Go Badge](https://img.shields.io/badge/-Go-blue?style=flat&logo=go)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Lua Badge](https://img.shields.io/badge/-Lua-007ACC?style=flat&logo=lua)
+- 💻 编程语言 | Programming language &#160; ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C%2B%2B-333333?style=flat&logo=c%2B%2B)
+![Lua](https://img.shields.io/badge/-Lua-333333?style=flat&logo=lua)
 
 - 🔧 常用工具 | Tools &#160; ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)
 ![Docker Badge](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 <br/>  
