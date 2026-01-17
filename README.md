@@ -12,10 +12,10 @@
 <table>
   <tr>
     <td>
-      <img src="github-readme-stats-henry-gongs-projects.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" />
+      <img src="https://github-readme-stats-henry-gongs-projects.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" />
     </td>
     <td>
-      <img src="github-readme-stats-henry-gongs-projects.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs" alt="Henry's github stats" />
+      <img src="https://github-readme-stats-henry-gongs-projects.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs" alt="Henry's github stats" />
     </td>
   </tr>
 </table>
