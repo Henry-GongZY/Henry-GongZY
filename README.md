@@ -12,7 +12,7 @@
 <table>
   <tr>
     <td>
-      <img src="http://github-readme-stats-theta-eight-98.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8&hide=jupyter%20notebook" alt="Top Langs" />
+      <img src="https://github-readme-stats-theta-eight-98.vercel.app/api/top-langs/?username=Henry-GongZY&layout=compact&langs_count=8&hide=html,jupyter%20notebook" alt="Top Langs" />
     </td>
     <td>
       <img src="http://github-readme-stats-theta-eight-98.vercel.app/api?username=Henry-GongZY&theme=synthwave&hide=prs" alt="Henry's github stats" />
